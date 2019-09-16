@@ -1,0 +1,13 @@
+Package: debugonce
+Title: Addin to debugonce without typing
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Antoine",
+           family = "Fabri",
+           role = c("aut", "cre"),
+           email = "antoine.fabri@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: double click on a function to select it type hotkey to debugonce
+License: GPL-3
+Encoding: UTF-8
+LazyData: true

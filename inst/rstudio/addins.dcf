@@ -1,0 +1,5 @@
+Name: debugonce
+Description: double click on a function to select it type hotkey to debugonce
+Binding: debugonce_addin
+Interactive: false
+

@@ -15,7 +15,7 @@ devtools::install_github("moodymudskipper/debugonce")
 
 ## Set shortcut
 
-Tools / addins / browse addins / keyboard shortcuts / debug pipe /
+Tools / addins / browse addins / keyboard shortcuts / debugonce /
 Ctrl+Shift+X (for example)
 
 Then double click on function, trigger addin, and you’ll be browing the
